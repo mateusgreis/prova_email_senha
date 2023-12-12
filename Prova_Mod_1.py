@@ -1,5 +1,3 @@
-import email.contentmanager
-
 email_cadastrado = 'correto@correto.com'
 senha_cadastrada = 'senhacorreta123'
 
